@@ -4,3 +4,5 @@ A Simple Text Analyzer that can perform operations to analyze text in different 
 
 * Remove Punctuations
 * Capatalize the text
+
+![Screenshot](https://ibb.co/j4PBgN8)
